@@ -1,0 +1,5 @@
+* linguist-vendored
+*.v linguist-vendored=false
+*.sv linguist-vendored=false
+*.py linguist-vendored=false
+*.s linguist-vendored=false
